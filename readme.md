@@ -32,3 +32,27 @@ m = massa benda (kg)
 a = percepatan benda (m/s2)
 
 Berdasarkan keterangan di atas, buatlah sebuah algoritma dan pseudocode untuk menghitung resultan gaya pada sebuah mobil yang memiliki massa benda 600 kg dan ketika didorong oleh tiga orang percepatannya adalah 2 m/s2!
+
+<!-- ALGORITMA -->
+1. buat variabel massa dengan nilai 600.
+2. buat varibale orang dengan nilai berapapun.
+3. buat variabel percepatan benda dengan nilai massa dibagi orang.
+4. buat variabel resultanGaya untuk menampung hasil dari massa dikali percepatan benda.
+5. hitung massa dikali percepatan benda.
+6. tampilkan hasil dari massa * percepatan (resultanGaya).
+
+<!-- PSEUDOCODE -->
+STORE m WITH 600
+STORE person WITH ANY NUMBER VALUE
+STORE a WITH m DIVIDE orang
+STORE resultanGaya 0
+
+CALCULATE m TIMES a
+SET resultanGaya WITH CALCULATION RESULT
+
+DISPLAY resultanGaya
+
+Notes:
+- m = massa
+- a = percepatan benda
+
