@@ -1,1 +1,0 @@
-# Newton-Second-Law
